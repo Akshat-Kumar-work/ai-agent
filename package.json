@@ -18,7 +18,9 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
+    "@types/readline-sync": "^1.4.8",
     "dotenv": "^16.4.7",
-    "openai": "^4.86.1"
+    "openai": "^4.86.1",
+    "readline-sync": "^1.4.10"
   }
 }
